@@ -1,1 +1,0 @@
-/media/cdrom/SANDISK/Python/Projects/django/mysite/blog/__init__.py

@@ -1,1 +1,5 @@
-/media/cdrom/SANDISK/Python/Projects/django/mysite/blog/apps.py
+from django.apps import AppConfig
+
+
+class BlogConfig(AppConfig):
+    name = 'blog'

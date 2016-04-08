@@ -1,1 +1,3 @@
-/media/cdrom/SANDISK/Python/Projects/django/mysite/blog/views.py
+from django.shortcuts import render
+
+# Create your views here.

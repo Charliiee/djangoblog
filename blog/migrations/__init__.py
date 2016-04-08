@@ -1,1 +1,0 @@
-/media/cdrom/SANDISK/Python/Projects/django/mysite/blog/migrations/__init__.py
